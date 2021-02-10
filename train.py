@@ -72,7 +72,7 @@ def load_data(data_dir):
     except:
         clear()
         print("Error reading image files. Make sure your dataset is structured according the logic")
-        print("For more on how to structure your dataset, visit: https://github.com/vishalkrishnads \n")
+        print("For more on how to structure your dataset, visit: https://github.com/vishalkrishnads/stupid.ai#configuring-the-dataset \n")
         print("QUITTING")
         sys.exit()
 
